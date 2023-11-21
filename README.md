@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tailwind CSS Laravel Mix (PostCSS) Starter Project
 
 We use this as a starter template to quickly develop static HTML pages with :
@@ -35,3 +36,6 @@ After that you will have a ready to deploy at `/public`
 ## Contributing
 
 Don't hesitate to join and PR!
+=======
+# coba1
+>>>>>>> ed88f786d8bfd5b8e35a7a031fb11e74ea69bd4b
