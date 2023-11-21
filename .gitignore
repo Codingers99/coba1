@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/build
 /public/hot
@@ -16,3 +17,11 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+=======
+node_modules
+yarn.lock
+.idea
+mix-manifest.json
+package-lock.json
+.DS_STORE
+>>>>>>> fee35bc88dbb4482133e7212ea055c9f1e80dec8

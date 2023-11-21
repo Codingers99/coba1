@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,46 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+<<<<<<< HEAD
+# Tailwind CSS Laravel Mix (PostCSS) Starter Project
+
+We use this as a starter template to quickly develop static HTML pages with :
+- TailwindCSS 2.1
+- Laravel Mix 6 (Webpack)
+- PostCSS
+- PostCSS Nested
+- PostCSS Import
+
+To get started, clone the project and install the dependencies:
+
+```
+npm install
+```
+
+After that, start up Laravel Mix:
+
+```
+npm run dev
+# to watch changes
+npm run watch
+```
+
+Base Tailwind CSS file is under `/resources/assets/css/styles.css`  
+Root HTML file is under `/public/index.html` 
+
+To build a production bundle run:
+
+```
+npm run prod
+```
+
+After that you will have a ready to deploy at `/public`
+
+## Contributing
+
+Don't hesitate to join and PR!
+=======
+# coba1
+>>>>>>> ed88f786d8bfd5b8e35a7a031fb11e74ea69bd4b
+>>>>>>> fee35bc88dbb4482133e7212ea055c9f1e80dec8
